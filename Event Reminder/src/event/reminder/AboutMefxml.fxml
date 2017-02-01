@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="237.0" prefWidth="258.0" style="-fx-background-color: grey;" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label layoutX="14.0" layoutY="14.0" prefHeight="17.0" prefWidth="93.0" text="About Me:" textFill="#fcf9f9" />
+        <Label layoutX="14.0" layoutY="49.0" text="NIshat Tasnim Ahmed Meem," textFill="#f5f2f2" />
+        <Label layoutX="14.0" layoutY="77.0" text="Student of CSE '13 Batch, SUST." textFill="#f5f2f2" />
+        <Label layoutX="14.0" layoutY="103.0" text="Email: meemnishat@gmail.com." textFill="#f5f2f2" />
+        <Label layoutX="14.0" layoutY="132.0" text="Under SuperVision of:" textFill="#f5f2f2" />
+        <Label layoutX="14.0" layoutY="161.0" text="Md. Eamin Rahman," textFill="#f5f2f2" />
+        <Label layoutX="14.0" layoutY="187.0" text="Assistant Professor, Dept. of CSE, SUST." textFill="#f5f2f2" />
+    </children>
+</AnchorPane>
